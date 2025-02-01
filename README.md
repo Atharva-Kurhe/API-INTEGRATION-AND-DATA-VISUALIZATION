@@ -16,13 +16,18 @@
 
 *Editors*:
   Developed using any Python-supporting editor such as:
-  -Visual Studio Code
-  -PyCharm
-  -Jupyter Notebook
+  ,Visual Studio Code
+  ,PyCharm
+  ,Jupyter Notebook
+  ,IDLE ,etc.
+   I have used IDLE, default editor that comes with Python installations with features like Simple UI for beginners with basic debugging and code execution capabilities.
+
 
 *Tools and Libraries Used*:
-  -requests: For fetching data from the OpenWeather API.
-  -matplotlib: For creating the temperature visualization graph.
+  
+  1]requests: For fetching data from the OpenWeather API.
+  
+  2]matplotlib: For creating the temperature visualization graph.
 
 *Approach Used*:
 
