@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*Overview of the Project*: This project retrieves weather forecast data from the OpenWeather API and visualizes the temperature trends for a specific city using a line graph. It serves as a quick and efficient way to analyze weather patterns over a short period.
+* *Overview of the Project*: This project retrieves weather forecast data from the OpenWeather API and visualizes the temperature trends for a specific city using a line graph. It serves as a quick and efficient way to analyze weather patterns over a short period.
 
-*Editors*:
+* *Editors*:
   Developed using any Python-supporting editor such as:
   ,Visual Studio Code
   ,PyCharm
@@ -23,13 +23,13 @@
    I have used IDLE, default editor that comes with Python installations with features like Simple UI for beginners with basic debugging and code execution capabilities.
 
 
-*Tools and Libraries Used*:
+* *Tools and Libraries Used*:
   
   1]requests: For fetching data from the OpenWeather API.
   
   2]matplotlib: For creating the temperature visualization graph.
 
-*Approach Used*:
+* *Approach Used*:
 
   1]Data Retrieval:
   -Utilized the OpenWeather API to fetch weather forecast data for a given city.
@@ -43,7 +43,7 @@
   -Created a line graph using matplotlib to plot temperature against timestamps.
   -Enhanced readability with labels, gridlines, and rotated x-axis ticks.
   
-  *Applicable Areas*:
+  * *Applicable Areas*:
   -Weather forecasting and analysis.
   -Educational purposes for learning API integration and data visualization in Python.
   -Quick visualization of temperature trends for travel planning or local weather monitoring.
