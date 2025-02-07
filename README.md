@@ -28,7 +28,7 @@ By the end of this task, users will have a tool that provides a clear visual rep
 
 * *Description of the Task* :
 
-Weather plays a crucial role in various aspects of daily life, from planning travel to organizing events. Having access to accurate and easily interpretable weather forecasts can significantly enhance decision-making processes. This project addresses this need by creating a Python application that integrates with the OpenWeather API to fetch and display temperature forecasts for a chosen city.
+Weather plays a crucial role in various aspects of daily life, from planning travel to organizing events. Having access to accurate and easily interpretable weather forecasts can significantly enhance decision-making processes. This task addresses this need by creating a Python application that integrates with the OpenWeather API to fetch and display temperature forecasts for a chosen city.
 
 * *Key Features* :
 
