@@ -58,7 +58,7 @@ The development of this task was carried out using Python-supporting editors, wh
 
 4] IDLE: The default editor that comes with Python installations, providing a simple and straightforward interface suitable for beginners.
 
-5] For this project, IDLE was utilized due to its simplicity and ease of use. It offers basic debugging and code execution capabilities, making it a suitable choice for developing a project of this scope.
+ For this task, IDLE was utilized due to its simplicity and ease of use. It offers basic debugging and code execution capabilities, making it a suitable choice for developing a task of this scope.
 
 * *Tools and Libraries Used* :
  
